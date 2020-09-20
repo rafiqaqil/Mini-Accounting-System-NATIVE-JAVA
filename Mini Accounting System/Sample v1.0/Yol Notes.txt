@@ -1,0 +1,4 @@
+Execute Jar with Settings.properties in same File 
+Data Saved to User Docs File in target
+Example : C:Users/YourName/
+target file is sample data place in directory to test the restart program

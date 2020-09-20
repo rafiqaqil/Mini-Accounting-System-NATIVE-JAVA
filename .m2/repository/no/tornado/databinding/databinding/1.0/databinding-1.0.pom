@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <parent>
+        <groupId>no.tornado.databinding</groupId>
+        <artifactId>databinding-parent</artifactId>
+        <version>1.0</version>
+    </parent>
+
+    <url>http://databinding.tornado.no</url>
+    <artifactId>databinding</artifactId>
+    <name>Swing Data Binding Core</name>
+    <description>
+        Swing Data Binding is a powerful, fast, light and simple data binding framework for Java.
+    </description>
+    
+    <dependencies>
+        <dependency>
+            <groupId>commons-beanutils</groupId>
+            <artifactId>commons-beanutils-core</artifactId>
+            <version>1.8.2</version>
+        </dependency>
+    </dependencies>
+</project>
