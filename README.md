@@ -1,6 +1,8 @@
 # Mini-Accounting-System-NATIVE-JAVA
 
 This app is made using language native java front-end and local sql backend. Stand-Alone executeable launcher is available for try.  The app recieved entries by user and will automatically produce the PDF Ballance Sheet, Cash Flow, Statement of Financial Position using the sotred data. CRUD Data is all operated using JAVA Frontend User Interface.  
+#Release Executable Stand-Alone v1.0 is available for download
+https://github.com/rafiqaqil/Mini-Accounting-System-NATIVE-JAVA/blob/master/Mini%20Accounting%20System/Sample%20v1.0/MiniAccounting.jar
 
 # Screenshots of the Windows java app
 ![Screenshot](JAVA-ACC.png)
